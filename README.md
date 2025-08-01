@@ -123,7 +123,7 @@ python main.py --proxy http://username:password@proxyhost:port
 If you're not using a proxy, you can skip this step.
 
 
-## 🚀 Usage
+## Usage
 
 By default, just run:
 
@@ -143,7 +143,7 @@ It will use these **default values** unless overridden:
 
 ---
 
-### 🔧 Command-Line Options
+### Command-Line Options
 
 Example with full customization:
 
