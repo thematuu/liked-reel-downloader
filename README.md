@@ -100,7 +100,7 @@ Instagram may block requests depending on your IP address or region. You can rou
 
 You can configure the proxy in two ways:
 
-#### ✅ Option 1: Set via `.env` file
+#### Option 1: Set via `.env` file
 
 Create or edit a `.env` file in your project folder:
 
@@ -110,7 +110,7 @@ PROXY=http://username:password@proxyhost:port
 
 This will automatically be picked up when you run the script.
 
-#### ✅ Option 2: Pass via command-line
+#### Option 2: Pass via command-line
 
 You can override the proxy using a CLI argument:
 
@@ -158,7 +158,7 @@ python main.py \
 
 ---
 
-## 🧪 Example Output
+## Example Output
 
 ```
 downloads/
@@ -171,7 +171,7 @@ A file called `downloaded_reels.txt` will track which Reels you've already downl
 
 ---
 
-## 🛑 Disclaimer
+## Disclaimer
 
 This tool is intended for **personal use only** with your own Instagram account and exported data.
 
