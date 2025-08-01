@@ -1,0 +1,5 @@
+PROXY=http://username:password@proxyhost:port
+LIKED_JSON=my_likes.json
+DOWNLOADED_FILE=my_downloaded.txt
+COOKIES_FILE=my_cookies.txt
+DOWNLOAD_DIR=my_reels

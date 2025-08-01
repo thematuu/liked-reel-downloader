@@ -1,0 +1,7 @@
+.env
+__pycache__/
+downloaded_reels.txt
+venv
+liked_posts.json
+cookies.txt
+downloads
